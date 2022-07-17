@@ -2,13 +2,13 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.
 
-🎓&nbsp; I am constantly learning new languages ​​and new frameworks.\
+🎓&nbsp; I am constantly learning new languages ​​and new frameworks.
 
-✍️ &nbsp;In my free time, I develop applications in new languages ​​as hobbies/side activities.\
+✍️ &nbsp;In my free time, I develop applications in new languages ​​as hobbies/side activities.
 
-✉️ &nbsp;You can email me at contacto@victorhugoaguilar.com! I will try to reply as soon as I can.\
+✉️ &nbsp;You can email me at contacto@victorhugoaguilar.com! I will try to reply as soon as I can.
 
 <br>
 
