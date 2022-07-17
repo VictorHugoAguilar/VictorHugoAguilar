@@ -43,9 +43,11 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)\
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)&nbsp;
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-![IntelliJ.IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-black?style=for-the-badge&logo=IntelliJ%20IDEA)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-black?style=for-the-badge&logo=IntelliJ%20IDEA)
 
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)&nbsp;
+![Adobe illustrator](https://img.shields.io/badge/Adobe%20Illustrator-orange?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=white)&nbsp;
+
 
 ![ORACLE](https://img.shields.io/badge/oracle-red?style=for-the-badge&logo=oracle)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
