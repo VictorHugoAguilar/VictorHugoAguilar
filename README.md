@@ -33,7 +33,7 @@
 <br>
 
 ### 🌌 &nbsp;My OS
-![MAC](https://img.shields.io/badge/platform-macos-blue?style=for-the-badge&logo=apple)&nbsp;
+![MAC](https://img.shields.io/badge/macos-blue?style=for-the-badge&logo=apple)&nbsp;
 ![WINDOWS](https://img.shields.io/badge/platform-windows-blue?style=for-the-badge&logo=windows)&nbsp;
 
 
