@@ -20,8 +20,6 @@
 ![MAC](https://img.shields.io/badge/platform-macos-blue?style=for-the-badge&logo=apple)&nbsp;
 ![WINDOWS](https://img.shields.io/badge/platform-windows-blue?style=for-the-badge&logo=windows)&nbsp;
 
-<br>
-
 ### 🛠 &nbsp;Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
