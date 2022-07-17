@@ -33,7 +33,8 @@
 <br>
 
 ### 🌌 &nbsp;My OS
-![Platform](https://img.shields.io/badge/platform-macos%20%7C%20windows%20%7C%20linux-blue)&nbsp;
+![MAC](https://img.shields.io/badge/platform-macos-blue?style=for-the-badge&logo=apple)&nbsp;
+![WINDOWS](https://img.shields.io/badge/platform-windows-blue?style=for-the-badge&logo=windows)&nbsp;
 
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
