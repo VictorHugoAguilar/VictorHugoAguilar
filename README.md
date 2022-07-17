@@ -13,7 +13,7 @@
 <br>
 
 <img alt="Monkey Coding" src="https://github.com/VictorHugoAguilar/VictorHugoAguilar/blob/main/assets/mono-programador.gif?raw=true" align="center"/> 
-<br><br>
+<br>
 
 
 ### 🛠 &nbsp;Tech Stack
