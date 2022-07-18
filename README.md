@@ -55,3 +55,15 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/victorhugoaguilar">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=victorhugoaguilar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=victorhugoaguilar&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+
+
+
