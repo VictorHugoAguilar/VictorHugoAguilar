@@ -12,6 +12,8 @@
 
 👨‍💻 &nbsp;Or you can also check some post in [Dev.to blog](https://dev.to/victorhugoaguilar)
 
+👨‍💻 &nbsp;Storage Page [Storage Page]([https://dev.to/victorhugoaguilar](https://tools-manager-frontend.netlify.app/almacenamiento)
+
 <br>
 
 <img alt="Monkey Coding" src="https://github.com/VictorHugoAguilar/VictorHugoAguilar/blob/main/assets/mono-programador.gif?raw=true" align="center"/> 
