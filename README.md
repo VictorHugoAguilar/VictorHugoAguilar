@@ -12,7 +12,7 @@
 
 👨‍💻 &nbsp;Or you can also check some post in [Dev.to blog](https://dev.to/victorhugoaguilar)
 
-👨‍💻 &nbsp;Storage Page [Storage Page]([https://dev.to/victorhugoaguilar](https://tools-manager-frontend.netlify.app/almacenamiento)
+👨‍💻 &nbsp;Storage Page [Storage Page](https://tools-manager-frontend.netlify.app/almacenamiento)
 
 <br>
 
